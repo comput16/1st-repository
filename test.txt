@@ -1,2 +1,0 @@
-32 present
-4 absent
